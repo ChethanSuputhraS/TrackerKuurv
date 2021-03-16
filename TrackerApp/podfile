@@ -1,0 +1,15 @@
+platform :ios, ‘8.0’
+
+target ‘TrackerApp’ do
+pod 'GoogleSignIn'
+pod 'Firebase/CoreOnly'
+pod 'Firebase/Auth'
+pod 'TwitterKit'
+pod 'Fabric'
+pod 'Crashlytics'
+pod 'FBSDKLoginKit'   
+pod 'FBSDKCoreKit'
+pod 'FBSDKShareKit'
+pod 'Firebase/Crashlytics'
+pod 'Firebase/Analytics' 
+end
